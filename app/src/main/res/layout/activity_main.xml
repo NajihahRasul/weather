@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorAccent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.najihah.weatherapp.MainActivity">
+
+    <TextView
+        android:id="@+id/textCity"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="city"
+        android:textStyle="bold"
+        android:textSize="36sp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:paddingBottom="12sp"
+        />
+
+    <TextView
+        android:id="@+id/currdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="update"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/imageView"
+        android:layout_gravity="center"
+        android:paddingBottom="12sp"
+        />
+
+    <TextView
+        android:id="@+id/Description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="desc"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+
+        />
+
+    <TextView
+        android:id="@+id/Humidity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="humid"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:paddingBottom="12sp"
+        />
+
+   <!-- <TextView
+        android:id="@+id/Time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="time"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:paddingBottom="12sp"
+        />-->
+
+    <TextView
+        android:id="@+id/Celcius"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="celcius"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        />
+
+</LinearLayout>
