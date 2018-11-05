@@ -14,7 +14,7 @@ http://api.openweathermap.org/data/2.5/weather
 
 ![weatherapp](https://user-images.githubusercontent.com/39667828/47995697-1b272f00-e131-11e8-8ac7-69feb395720c.png)
 
-How to use the application :
+# How to use the application :
 
 1.	Insert the longitude and latitude of any place that you want to know in the external control of your emulator.
 
