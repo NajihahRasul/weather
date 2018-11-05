@@ -23,7 +23,9 @@ http://api.openweathermap.org/data/2.5/weather
 # The parameter that the API able to receive :
 
 1.	By geographic coordinates
+
 API call:
+
 api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}
 
 # Parameters:
