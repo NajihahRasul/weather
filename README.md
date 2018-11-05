@@ -16,7 +16,7 @@ http://api.openweathermap.org/data/2.5/weather
 
 # How to use the application :
 
-1.	Insert the longitude and latitude of any place that you want to know in the external control of your emulator.
+1.	Insert the longitude and latitude of any place that you want to know in the extended control of your android studio emulator.
 
 2.	The weather output will be display at the emulator as shown in the screenshots.
 
