@@ -22,7 +22,7 @@ http://api.openweathermap.org/data/2.5/weather
 
 # The parameter that the API able to receive :
 
-1.	By geographic coordinates
+By geographic coordinates
 
 API call:
 
@@ -31,7 +31,7 @@ api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}
 # Parameters:
 lat, lon coordinates of the location of your interest
 
-# Examples of API calls:
+# Examples of API calls use latitude and logitude Kepong, Malaysia:
 http://api.openweathermap.org/data/2.5/weather?lat=3.2374&lon=101.6839&appid=2b4bf1af6880efadbdb70e5ba499ed40
 
 # The responses that the API return (the JSON values) :
